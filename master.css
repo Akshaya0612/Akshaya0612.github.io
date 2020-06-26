@@ -1,0 +1,27 @@
+    body{
+      background-color: beige;<!-- beige tends to white background and coral tends to peech pink colr -->
+      color:black;
+      font-family : sans-serif , Arial;
+      text-align: center;
+
+  }
+  footer{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color:blue
+  }
+  h3{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  h4{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem
+  }
+  a{
+    color:blue;
+  }
+  a:hover{
+    color:red;
+  }
+<!-- CSS Cascading Style Sheet -->
